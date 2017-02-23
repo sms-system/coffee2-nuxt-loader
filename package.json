@@ -1,0 +1,11 @@
+{
+  "name": "coffee2-loader",
+  "version": "1.0.0",
+  "description": "CoffeeScript2 loader for nuxt.js",
+  "author": "Sergey Smirnov <sms-system@mail.ru>",
+  "private": true,
+  "dependencies": {
+    "coffee-loader": "^0.7.2"
+  },
+  "license": "MIT"
+}
